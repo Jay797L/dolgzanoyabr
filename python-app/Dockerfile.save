@@ -1,3 +1,0 @@
-npm completion >> ~/.bashrc
-source ~/.bashrc
-RUN
